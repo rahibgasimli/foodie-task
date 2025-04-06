@@ -1,7 +1,10 @@
+import CategoryList from "../components/Categories/CategoryList"
 
 function Categories() {
   return (
-    <div>Categories</div>
+    <section className="categories-section">
+        <CategoryList/>
+    </section>
   )
 }
 

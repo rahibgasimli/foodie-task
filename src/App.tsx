@@ -8,7 +8,9 @@ function App() {
   return (
     <div className=''>
       <Header/>
-      <RouterConfig/>
+      <div className='m-4'>
+        <RouterConfig/>
+      </div>
       <BottomNav/>
     </div>
   )

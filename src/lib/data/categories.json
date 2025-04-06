@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "name": "Bestseller",
+            "count": 12
+        },
+        {
+            "name": "Pizza",
+            "count": 19
+        },
+        {
+            "name": "Pasta",
+            "count": 13
+        },
+        {
+            "name": "Burger",
+            "count": 14
+        },
+        {
+            "name": "Coffee",
+            "count": 21
+        },
+        {
+            "name": "Juice",
+            "count": 16
+        },
+        {
+            "name": "Hotdog",
+            "count": 6
+        },
+        {
+            "name": "Garlic Bread",
+            "count": 13
+        },
+        {
+            "name": "Chinese Items",
+            "count": 18
+        }
+    ]
+}
