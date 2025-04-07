@@ -8,7 +8,7 @@ function App() {
   return (
     <div className=''>
       <Header/>
-      <div className='m-4'>
+      <div className='m-4 pb-[80px]'>
         <RouterConfig/>
       </div>
       <BottomNav/>
